@@ -2,6 +2,8 @@
 
 ## Session 1 | Geometric Probabilistic Models - Viacheslav Borovitskiy
 
+[Materials](https://vab.im/probai2025/)
+
 ## Session 2 | Probabilistic Circuits - Antonio Vergari
 you will need to install the cirkit library that you can find here: https://github.com/april-tools/cirkit (try to install it before the lecture!). 
 
