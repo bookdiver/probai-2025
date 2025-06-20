@@ -23,7 +23,7 @@ Materials of the [ProbAI 2025](https://nordic.probabilistic.ai/), also know as t
   - Alexander Tong - *Flow Matching* [[Slides & Materials](day-4)]
  
 * **Day 5 (June 20)**:
-  - Viacheslav Borovitskiy - *Geometric Probabilistic Models* [[Slides & Materials]([day-5](https://vab.im/probai2025/))]
+  - Viacheslav Borovitskiy - *Geometric Probabilistic Models* [[Slides & Materials](https://vab.im/probai2025/)]
   - Antonio Vergari - *Probabilistic Circuits* [[Slides & Materials](day-5)]
   
 ## Program
