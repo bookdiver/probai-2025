@@ -10,6 +10,7 @@ you will need to install the cirkit library that you can find here: https://gith
 Alternatively, you can run the Google Colab notebooks code with 
 `!pip install libcirkit -q --no-deps ` and `!pip install torch torchvision -q` added in the first lines.
 
+- [Slides](verta54_nordic_probai_trondheim_200625.pdf)
 - Notebooks
     * fitting a simple GMM implemented as a circuit
       * [Link](https://github.com/april-tools/cirkit/blob/main/notebooks/learning-a-gaussian-mixture-model.ipynb)
